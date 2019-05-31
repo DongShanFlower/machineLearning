@@ -1,12 +1,6 @@
 #!/usr/bin/python
 # coding:utf8
 
-'''
-Created on Jun 1, 2011
-Update  on 2017-12-20
-Author: Peter Harrington/片刻
-GitHub: https://github.com/apachecn/AiLearning
-'''
 from numpy import *
 import matplotlib.pyplot as plt
 print(__doc__)
